@@ -1,0 +1,80 @@
+{
+    "files": [
+        {
+            "name": "LICENSE",
+            "sha1": "577b777343de7a870bc70e9dbd1e45e990ad26e4"
+        },
+        {
+            "name": "README.md",
+            "sha1": "fb7760b740a0c7ea0dad4bd0dca1b50536dc6799"
+        },
+        {
+            "name": "boot.py",
+            "sha1": "93a65da52ba7dbd97787531c7695d4a85807c392"
+        },
+        {
+            "name": "camera.py",
+            "sha1": "428e64422eb14713bc92396d4ec3167d43a6871c"
+        },
+        {
+            "name": "canvas.py",
+            "sha1": "0f8f941827b42740548f6884dc68696369256ae8"
+        },
+        {
+            "name": "crsf.py",
+            "sha1": "f9645d23fb977c027ec6e861e23040034ea5bba7"
+        },
+        {
+            "name": "entry.py",
+            "sha1": "e7033ef52ddba8682cff3ce0f0234bd9f7ad115a"
+        },
+        {
+            "name": "main.py",
+            "sha1": "027357cac8a688dc2833b3cd666c01b9b8831693"
+        },
+        {
+            "name": "ota.py",
+            "sha1": "8611e69ca51efb00bc35f4740785bbc795357e7f"
+        },
+        {
+            "name": "peripherals.py",
+            "sha1": "d0760a6330e9ce2cae5c2cdcbf927e2507d66fb2"
+        },
+        {
+            "name": "settings.py",
+            "sha1": "492c7bfdc7f4a728d91bea0c73ebe79b45275d48"
+        },
+        {
+            "name": "ssd1306.py",
+            "sha1": "b77e02e21a69cb5fc3eb53571c1a06d69f7fbc41"
+        },
+        {
+            "name": "startup.py",
+            "sha1": "6fd85fec9940b11da17335e1447420f6d4a54fa0"
+        },
+        {
+            "name": "target.py",
+            "sha1": "55f23bb2113381b8d579f78e6c936ca1d4cc1aa7"
+        },
+        {
+            "name": "task.py",
+            "sha1": "d5b5589e679c82177646c3d4456cb82865d7c311"
+        },
+        {
+            "name": "ui.py",
+            "sha1": "16e93dc34eafc6fe6a050cb11577ee23785cf1d3"
+        },
+        {
+            "name": "urequests.py",
+            "sha1": "284e075abb2b3b1583bb4d763df64abe5015d3f2"
+        },
+        {
+            "name": "vram.py",
+            "sha1": "3265927db550a122689a8722316b814f6dd8f0d4"
+        },
+        {
+            "name": "wlan.py",
+            "sha1": "fcfdfc1e3d7bf457e5b83d4b7b553f2921246659"
+        }
+    ]
+}
